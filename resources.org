@@ -1,0 +1,8 @@
+http://interactivepython.org/runestone/static/thinkcspy/index.html
+https://elitedatascience.com/learn-python-for-data-science
+http://www.scipy-lectures.org/intro/
+http://pythonforengineers.com/python-for-scientists-and-engineers/
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials
+
+http://jrjohansson.github.io/
+https://github.com/jrjohansson/scientific-python-lectures
